@@ -1,0 +1,25 @@
+body{
+    background-color: lightgrey;
+}
+
+.image{
+    border-top-right-radius: 10px; 
+              border-bottom-left-radius: 10px;
+              width:100%; 
+}
+
+.hospitalname{
+    position: absolute;
+    top: 120px;
+    left: 25px;
+    color: white
+}
+
+.body1{
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+
+.card{
+    margin-bottom: 20px;
+}
